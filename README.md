@@ -17,7 +17,6 @@
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [MyPortfolio](https://www.behance.net/nadeenelsayed2)
 * ✉️  Contact me at [nadeenelsayed12403@gmail.com](mailto:nadeenelsayed12403@gmail.com)
-* 🧠  I'm learning Node.js, Express.js, and Redux.
 * 🤝  I'm open to collaborating on interesting projects
 
 <h2 align="left">Languages and Tools </h2>
@@ -38,7 +37,6 @@
  <a href="https://www.behance.com/nadeenelsayed2" target="_blank" rel="noreferrer"> <picture>  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> &nbsp
  <a href="https://www.codepen.io/El-okia0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> &nbsp
- <a href="https://discord.com/users/896796408051539968" target="_blank" rel="noreferrer"> <picture>  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
 </p>
 </td>
 <td>
