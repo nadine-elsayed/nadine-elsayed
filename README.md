@@ -7,7 +7,6 @@
 
 
 <h3 align="center">Full-Stack Developer | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadine-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="nadine-elsayed" /> </p>
 
 
 <table align="center">
