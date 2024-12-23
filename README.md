@@ -1,23 +1,23 @@
 
 
 <h1 align="center">
- Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />My name is Nadeen Elsayed
+ Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />My name is Nadine El-Sayed
 </h1>
 
 
 
 <h3 align="center">Full-Stack Developer | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeen-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="nadeen-elsayed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadine-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="nadine-elsayed" /> </p>
 
 
 <table align="center">
 <tr border="none">
 <td width="600px" align="left">
   
-* 🌍  I'm based in Alexandria, Egypt
-* 🖥️  See my portfolio at [MyPortfolio](https://www.behance.net/nadeenelsayed2)
-* ✉️  Contact me at [nadeenelsayed12403@gmail.com](mailto:nadeenelsayed12403@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  I'm based in Alexandria, Egypt
+* 🖥️  See my portfolio at [MyPortfolio](https://www.behance.net/nadine-elsayed)
+* ✉️  Contact me at [nadine.elsayed03@gmail.com](mailto:nadine.elsayed03@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
 
 <h2 align="left">Languages and Tools </h2>
 
@@ -29,12 +29,12 @@
 <h2 align="left">Socials</h2>
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/nadeen-elsayed-6b3052283" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
- <a href="https://leetcode.com/nadeen-elsayed/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadeen-elsayed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/nadeenelsayed121" target="blank">
-<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nadeen-elsayed" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/nadine-elsayed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+ <a href="https://leetcode.com/nadine-elsayed/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadine-elsayed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/nadine_elsayed" target="blank">
+<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nadine-elsayed" height="30" width="40" />
 </a>
- <a href="https://www.behance.com/nadeenelsayed2" target="_blank" rel="noreferrer"> <picture>  
+ <a href="https://www.behance.com/nadine-elsayed" target="_blank" rel="noreferrer"> <picture>  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> &nbsp
  <a href="https://www.codepen.io/El-okia0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> &nbsp
 </p>
@@ -58,17 +58,19 @@
 <tr border="none">
 <td width="50%" align="center">
   
-<a href="http://www.github.com/nadeen-elsayed"><img src="https://github-readme-stats.vercel.app/api?username=nadeen-elsayed&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="nadeen-elsayed's GitHub stats" /></a>
+<a href="http://www.github.com/nadine-elsayed"><img src="https://github-readme-stats.vercel.app/api?username=nadine-elsayed&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="nadine-elsayed's GitHub stats" /></a>
   <br></br>
 
-<a href="http://www.github.com/nadeen-elsayed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeen-elsayed&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nadine-elsayed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nadine-elsayed&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
    
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/nadeen-elsayed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeen-elsayed&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nadine-elsayed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadine-elsayed&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
   </td>
 </tr>
 </table>
+
+
